@@ -1,8 +1,8 @@
 === Language Links Meta Box ===
 Author: Sushyant Zavarzadeh
 Tags: multilingual, meta box, language links
-Tested up to: 6.6
-Stable tag: 1.0.0
+Tested up to: 6.7.1
+Stable tag: 1.2.0
 Requires PHP: 7.2.5
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
